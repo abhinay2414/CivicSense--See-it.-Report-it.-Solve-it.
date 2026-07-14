@@ -376,26 +376,6 @@ Production-grade security features include:
 
 ---
 
-# 📂 Project Structure
-
-```text
-CivicSense
-│
-├── client/                 # React Frontend
-├── server/                 # Express Backend
-├── routes/                 # API Routes
-├── controllers/            # Business Logic
-├── models/                 # MongoDB Models
-├── middleware/             # Authentication & Validation
-├── services/               # AI & External Services
-├── sockets/                # Socket.IO Events
-├── uploads/                # Temporary Uploads
-├── public/
-└── README.md
-```
-
----
-
 # 🤝 Contributing
 
 Contributions are always welcome!
